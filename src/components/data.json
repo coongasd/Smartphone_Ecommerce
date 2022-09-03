@@ -1,0 +1,68 @@
+ [
+        {
+        "id":1,
+        "name": "iPhone 13 Pro Max 256GB I Chính hãng VN/A",
+        "img-src": "/images/iphone/iphone13-promax-256gb.png",
+        "price":"33.000.000 ₫"
+        
+        
+    } ,
+    {
+        "id":2,
+        "name": "Samsung Galaxy Z Fold3 5G",
+        "img-src": "/images/samsung/zFold3.png", 
+        "price":"40.490.000 ₫"
+        },
+    {
+         "id":3,
+         "name": "iPhone 13 128GB | Chính hãng VN/A",
+        "img-src": "/images/iphone/ip13-pro.png",
+         "price":"22.400.000 ₫"
+            },
+    {
+         "id":4,
+        "name": "iPhone 13 Pro Max 128GB I Chính hãng VN/A",
+         "img-src": "/images/iphone/iphone13-promax-256gb.png",
+        "place":"Đà Lạt",
+         "price":"30.500.000 ₫"
+                },
+     {
+                    "id":5,
+                    "name": "iPhone 11 64GB I Chính hãng VN/A",
+                    "img-src": "/images/iphone/ip11.png",
+                    "price":"13.990.000 ₫"
+     } , {
+        "id":6,
+        "name": "iPhone 13 Pro Max 256GB I Chính hãng VN/A",
+        "img-src": "/images/iphone/iphone13-promax-256gb.png",
+        "price":"33.000.000 ₫"
+    } ,
+    {
+        "id":7,
+        "name": "Samsung Galaxy Z Fold3 5G",
+        "img-src": "/images/samsung/zFold3.png", 
+        "price":"40.490.000 ₫"
+        },
+    {
+         "id":8,
+         "name": "iPhone 13 128GB | Chính hãng VN/A",
+        "img-src": "/images/iphone/ip13-pro.png",
+         "price":"22.400.000 ₫"
+            },
+    {
+         "id":9,
+        "name": "iPhone 13 Pro Max 128GB I Chính hãng VN/A",
+         "img-src": "/images/iphone/iphone13-promax-256gb.png",
+        "place":"Đà Lạt",
+         "price":"30.500.000 ₫"
+                },
+     {
+                    "id":10,
+                    "name": "iPhone 11 64GB I Chính hãng VN/A",
+                    "img-src": "/images/iphone/ip11.png",
+                    "price":"13.990.000 ₫"
+     } 
+             ]
+    
+
+   

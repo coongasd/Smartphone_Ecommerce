@@ -1,0 +1,33 @@
+ [
+      {
+        "id":1,
+        "name": "City tour Đà Lạt – Chuyến đi của Thanh Xuân",
+        "img-src": "/images/banner_1.png",
+        "place":"Đà Lạt",
+        "price":"546,686vnd"
+    } ,
+    {
+        "id":2,
+        "name": "CITY TOUR – KHÁM PHÁ ĐÀ LẠT",
+        "img-src": "/images/banner_2.png",
+        "place":"Đà Lạt",
+        "price":"629.000đ"
+        },
+    {
+         "id":3,
+         "name": "City tour Bảo Lộc – Khám phá “Cơn lốc Tây Nguyên",
+        "img-src": "/images/banner_1.png",
+         "place":"Đà Lạt",
+         "price":"594,754đ"
+            },
+    {
+         "id":4,
+        "name": "City tour Bảo Lộc – Khám phá “Cơn lốc Tây Nguyên",
+         "img-src": "/images/banner_1.png",
+        "place":"Đà Lạt",
+         "price":"594,754đ"
+                }
+    
+    
+ ]
+   
