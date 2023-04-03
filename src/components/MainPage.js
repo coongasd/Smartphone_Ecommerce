@@ -25,7 +25,7 @@ function Mainproduct() {
     const {loading, error, products} = productList;
     const keyword = useParams();    
     useEffect(() => {   
-       dispatch(listProduct(keyword));
+       dispatch(listProduct(keyword?.keyword));
     },[dispatch,keyword]);
 
     

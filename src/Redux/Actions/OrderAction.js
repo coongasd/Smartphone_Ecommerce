@@ -28,7 +28,7 @@ export const createOrder = (order) => async(dispatch,getState) => {
         },
     };
     const {data} = await axios.post(
-        `/api/orders`,order,
+        `https://job-search-server.onrender.com/api/orders`,order,
         config
     );
     dispatch({type: ORDER_CREATE_SUCCESS, payload: data});
@@ -72,7 +72,7 @@ export const getOrderDetails = (id) => async(dispatch,getState) => {
         },
     };
     const {data} = await axios.get(
-        `/api/orders/${id}`,
+        `https://job-search-server.onrender.com/api/orders/${id}`,
         config
     );
     dispatch({type: ORDER_DETAILS_SUCCESS, payload: data});
@@ -110,7 +110,7 @@ export const payOrder = (orderId,paymentResult) => async(dispatch,getState) => {
         },
     };
     const {data} = await axios.put(
-        `/api/orders/${orderId}/pay`,paymentResult,
+        `https://job-search-server.onrender.com/api/orders/${orderId}/pay`,paymentResult,
         config
     );
     dispatch({type: ORDER_PAY_SUCCESS, payload: data});
